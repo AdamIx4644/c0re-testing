@@ -11,6 +11,5 @@
     ],
     "env": {
         "PYTHONPATH": "."
-    },
-    "install": "pip install -r requirements.txt"
+    }
 }
